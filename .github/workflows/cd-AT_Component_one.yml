@@ -19,7 +19,7 @@ name: cd-AT_Component_one
     types:
       - completed
 env:
-  REPOSITORY_NAME: test
+  REPOSITORY_NAME: Automation_rapidx
 jobs:
   set-environment:
     runs-on: ubuntu-latest
